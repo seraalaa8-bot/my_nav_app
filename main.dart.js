@@ -84129,7 +84129,7 @@ $S:15}
 A.LY.prototype={
 L(a){return new A.yK(new A.mM(this.c,null),"School Navigator",A.u9(B.ad,null,B.r,!0),!1,null)}}
 A.md.prototype={
-ak(){return new A.Sf(B.hK,A.a8(["Reception",B.hK,"Emergency Exit",B.Mb,"COO Office",B.LQ,"Cafeteria",B.MB,"Ms. Asmaa",B.Mp,"Mr. Salah",B.LZ,"Data Center",B.M6,"Maintenance",B.LW,"Lab 2",B.LM,"Boys WC",B.MD,"Girls WC",B.Mt,"AI Lab",B.LS,"Lab 1",B.M2,"LAB 4",B.Mv,"Lab 3",B.MC,"Staff Room",B.LT],t.N,t.o),null,null)}}
+ak(){return new A.Sf(B.hK,A.a8(["Reception",B.hK,"Emergency Exit",B.Mb,"COO Office",B.LQ,"Cafeteria",B.MB,"Ms. Asmaa",B.Mp,"Mr. Salah",B.LZ,"Data Center",B.M6,"Maintenance",B.LW,"LAB 2",B.LM,"Boys WC",B.MD,"Girls WC",B.Mt,"AI LAB",B.LS,"LAB 1",B.M2,"LAB 4",B.Mv,"LAB 3",B.MC,"Staff Room",B.LT],t.N,t.o),null,null)}}
 A.Sf.prototype={
 Yi(a){this.ag(new A.akv(this,a))},
 B0(a){var s=this.z
@@ -84194,7 +84194,7 @@ a36(a){var s=this,r=null,q=A.cI(r,r,a,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r
 q=A.axz(r,A.ard(r,new A.h5(4,A.fN(15),B.o),r,r,r,r,r,r,!0,r,r,r,r,r,r,o,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,p,"Search room...",r,r,r,r,r,r,r,r,r,!0,!0,!1,r,B.oq,r,r,r,r,r,r,r,r,r,r,r,r),new A.akm(s),q)
 if(s.f.length!==0)p=s.a35(a)
 else{p=t.s
-p=A.awa(A.c([s.vB(B.Ge,"Learning Hub",A.c(["LAB 1","LAB 2","LAB 3","LAB 4","AI Lab"],p),a),s.vB(B.Gc,"Management",A.c(["COO Office","Ms. Asmaa","Mr. Salah","Data Center","Maintenance","Staff Room"],p),a),s.vB(B.om,"W.C",A.c(["Boys WC","Girls WC"],p),a),s.vB(B.G5,"Others",A.c(["Emergency Exit","Cafeteria","Reception"],p),a)],t.p),B.as)}return A.hT(A.c([B.zP,B.Ak,B.ij,new A.c3(B.Fs,q,r),A.a0K(p,1),new A.c3(B.h6,A.av9(B.or,B.Aj,new A.akn(s),A.aqU(r,r,B.r,r,r,r,r,r,r,r,r,B.zL,r,r,new A.cc(A.fN(12),B.o),r,r,r,r,r)),r)],t.p),B.ag,B.au,B.bn)},
+p=A.awa(A.c([s.vB(B.Ge,"Learning Hub",A.c(["LAB 1","LAB 2","LAB 3","LAB 4","AI LAB"],p),a),s.vB(B.Gc,"Management",A.c(["COO Office","Ms. Asmaa","Mr. Salah","Data Center","Maintenance","Staff Room"],p),a),s.vB(B.om,"W.C",A.c(["Boys WC","Girls WC"],p),a),s.vB(B.G5,"Others",A.c(["Emergency Exit","Cafeteria","Reception"],p),a)],t.p),B.as)}return A.hT(A.c([B.zP,B.Ak,B.ij,new A.c3(B.Fs,q,r),A.a0K(p,1),new A.c3(B.h6,A.av9(B.or,B.Aj,new A.akn(s),A.aqU(r,r,B.r,r,r,r,r,r,r,r,r,B.zL,r,r,new A.cc(A.fN(12),B.o),r,r,r,r,r)),r)],t.p),B.ag,B.au,B.bn)},
 a35(a){var s=null,r=this.z,q=A.k(r).i("b3<1>"),p=q.i("aK<w.E>"),o=A.a1(new A.aK(new A.b3(r,q),new A.akh(this),p),p.i("w.E"))
 r=o.length
 return new A.yB(new A.acC(new A.aki(this,o,a),r,!0,!0,!0,s),s,B.aq,!1,s,s,B.mh,!1,s,r,B.al,s,s,B.O,B.aD,s)},
@@ -84406,7 +84406,7 @@ s.$6("Cafeteria",0.55,0.22,0.1,0.06,B.cm)
 s.$6("Staff Room",0.01,0.22,0.08,0.06,B.cm)
 s.$6("Maintenance",0.29,0.51,0.07,0.06,B.cm)
 s.$6("LAB 2",0.37,0.51,0.07,0.06,B.bW)
-s.$6("AI Lab",0.72,0.51,0.1,0.06,B.cm)
+s.$6("AI LAB",0.72,0.51,0.1,0.06,B.cm)
 s.$6("Reception",0.44,0.9,0.12,0.06,B.cm)
 s.$6("LAB 1",0.94,0.42,0.05,0.08,B.bW)
 s.$6("EXIT",0.45,0.01,0.1,0.05,B.KQ)},
